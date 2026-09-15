@@ -1,3 +1,4 @@
+
 Array as DataStructure
     Continuous block of memory
     we can strore homogeneous of elements only
@@ -29,3 +30,4 @@ UseCases:
     Visted 
     Lot of popular coding pattern
 
+>>>>>>> 2950ec8b1622e0da1d606388a08116b093960255

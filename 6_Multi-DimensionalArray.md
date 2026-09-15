@@ -1,3 +1,5 @@
+
+=======
 Multi-Dimensional Array:
     A multi-dimensional array is an array inside another array
 
@@ -67,4 +69,5 @@ class Solution {
         }
         return result;
     }
+>>>>>>> 2950ec8b1622e0da1d606388a08116b093960255
 }

@@ -1,3 +1,4 @@
+
 SLIDING WINDOW:
 
     ✨Instead of checking every possible part of an array (which is slow), we take a “window” (a small part of the array) and slide it step by step.
@@ -28,3 +29,4 @@ Why use Sliding Window?
     Reduces time complexity from O(n²) → O(n)
 
 
+>>>>>>> 2950ec8b1622e0da1d606388a08116b093960255
