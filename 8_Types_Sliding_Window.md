@@ -19,7 +19,6 @@ public int maxSum(int[] arr, int k) {
     for (int i = 0; i < k; i++) {
         windowSum += arr[i];// in this block they will added the first k size that is window size elements only 
     }
-
     maxSum = windowSum;
     for (int i = k; i < arr.length; i++) {
         windowSum += arr[i];      

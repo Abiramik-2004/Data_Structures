@@ -28,5 +28,3 @@ Why use Sliding Window?
     Faster than brute force
     Reduces time complexity from O(n²) → O(n)
 
-
->>>>>>> 2950ec8b1622e0da1d606388a08116b093960255
